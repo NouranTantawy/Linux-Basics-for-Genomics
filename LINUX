@@ -1,0 +1,14 @@
+comand.sh >> into this file write: 
+#!/bin/sh
+
+$curl + link 
+
+
+
+
+                                   ./ to act on the same directory
+
+for file ./ 
+do
+   echo $var
+done
